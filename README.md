@@ -25,8 +25,6 @@ Lesson Customization: Educators can repeat the current section, go back to the p
 Lesson Creation: Educators have the power to create, edit, or remove lessons through the web portal, tailoring the content to specific educational objectives.
 Hologram Customization: Educators can adjust the sizes of holograms and customize questions, narration, and visual and audio cues for the users.
 ## Conclusion
-Conclusion
-
 HoloType represents a significant step towards making quality education accessible to individuals with unique learning needs. our user study demonstrates the potential of this application to be a valuable resource for a population that faces limited access to educational opportunities as a result of their motor and sensory challenges.
 
 ## Demo 
