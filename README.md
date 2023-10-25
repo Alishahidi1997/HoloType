@@ -32,7 +32,7 @@ HoloType is an innovative Augmented Reality (AR) educational platform, using Hol
 HoloType represents a significant step towards making quality education accessible to individuals with unique learning needs. our user study demonstrates the potential of this application to be a valuable resource for a population that faces limited access to educational opportunities as a result of their motor and sensory challenges.
 
 ## Demo 
-Will be added soon. 
+Multiplayer demo will be added soon. 
 ## Publications 
 1- Krishnamurthy, Diwakar, et al. "Holotype: Lived experience based communication training for nonspeaking autistic people." CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. https://dl.acm.org/doi/abs/10.1145/3491101.3519869
 
