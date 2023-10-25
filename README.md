@@ -21,9 +21,13 @@ HoloType is an innovative Augmented Reality (AR) educational platform, using Hol
 <strong>Multiplayer Option</strong>: HoloType facilitates shared virtual environments, enabling users to collaborate and learn together.
 ## Educator Access
 <strong>Section Navigation</strong>: Educators can effortlessly navigate between different sections, ensuring flexibility in lesson delivery.
+
 <strong>Lesson Customization</strong>: Educators can repeat the current section, go back to the previous section or advance to the next, offering adaptability to individual student needs.
+
 <strong>Lesson Creation</strong>: Educators have the power to create, edit, or remove lessons through the web portal, tailoring the content to specific educational objectives.
+
 <strong>Hologram Customization</strong>: Educators can adjust the sizes of holograms and customize questions, narration, and visual and audio cues for the users.
+
 ## Conclusion
 HoloType represents a significant step towards making quality education accessible to individuals with unique learning needs. our user study demonstrates the potential of this application to be a valuable resource for a population that faces limited access to educational opportunities as a result of their motor and sensory challenges.
 
