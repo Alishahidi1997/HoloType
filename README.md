@@ -1,13 +1,15 @@
 # HoloType
 <strong>Please Note: Due to licensing constraints, this code is not open source.</strong>.
+
+
 ![](https://github.com/Alishahidi1997/HoloType/blob/main/4-Lesson.jpg)
+
 ## Introduction
 
 HoloType is an innovative Augmented Reality (AR) educational platform, using HoloLens 2 head-mounted augmented reality, designed to cater to the unique learning needs of non-speaking autistic individuals. This project represents a fusion of cutting-edge technology and a deeply human-centered approach to education. Developed using Unity, C#, and the Mixed Reality Toolkit (MRTK), HoloType is a testament to the power of technology in making education accessible and engaging for all.
 
 ## Key Features 
 
-![](https://github.com/Alishahidi1997/HoloType/blob/main/4-Lesson.jpg)
 
 <strong>Teach-Ask Approach</strong>: HoloType employs a distinctive "Teach-Ask" methodology, where educators provide brief lesson sections followed by interactive questions. This approach ensures a comprehensive learning experience.
 
