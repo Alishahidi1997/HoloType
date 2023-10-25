@@ -5,25 +5,25 @@
 HoloType is an innovative Augmented Reality (AR) educational platform, using HoloLens 2 head-mounted augmented reality, designed to cater to the unique learning needs of non-speaking autistic individuals. This project represents a fusion of cutting-edge technology and a deeply human-centered approach to education. Developed using Unity, C#, and the Mixed Reality Toolkit (MRTK), HoloType is a testament to the power of technology in making education accessible and engaging for all.
 
 ## Key Features 
-Teach-Ask Approach: HoloType employs a distinctive "Teach-Ask" methodology, where educators provide brief lesson sections followed by interactive questions. This approach ensures a comprehensive learning experience.
+<strong>Teach-Ask Approach</strong>: HoloType employs a distinctive "Teach-Ask" methodology, where educators provide brief lesson sections followed by interactive questions. This approach ensures a comprehensive learning experience.
 
-Close Captioning Narration: All narrations come with close captioning, making the educational content accessible to individuals with diverse learning needs.
+<strong>Close Captioning Narration</strong>: All narrations come with close captioning, making the educational content accessible to individuals with diverse learning needs.
 
-Dynamic Lessons: Educators can seamlessly customize lessons through a web portal, allowing for adaptability and personalization in the learning process.
+<strong>Dynamic Lessons</strong>: Educators can seamlessly customize lessons through a web portal, allowing for adaptability and personalization in the learning process.
 ## User-Centric Features
 
-Multiple Choice Quizzes: Users encounter progressively challenging multiple-choice quizzes as they progress through the lessons. Users have the advantage of not one but two chances to respond to each question, creating a constructive and nurturing learning environment. After an incorrect response, the options will be rearranged, and the previously incorrect choice substituted with an alternative, to prevent any repetitive behaviors.
+<strong>Multiple Choice Quizzes</strong>: Users encounter progressively challenging multiple-choice quizzes as they progress through the lessons. Users have the advantage of not one but two chances to respond to each question, creating a constructive and nurturing learning environment. After an incorrect response, the options will be rearranged, and the previously incorrect choice substituted with an alternative, to prevent any repetitive behaviors.
 
-Visual and Audio Cues: The platform incorporates a virtual hand coach, feedback on responses, and relevant pictures that appear during keyword narrations to enhance user engagement.
+<strong>Visual and Audio Cues</strong>: The platform incorporates a virtual hand coach, feedback on responses, and relevant pictures that appear during keyword narrations to enhance user engagement.
 
-Tag-Along Feature: Holograms remain visible within the user's field of view, ensuring an uninterrupted and immersive learning experience even when users move.
+<strong>Tag-Along Feature</strong>: Holograms remain visible within the user's field of view, ensuring an uninterrupted and immersive learning experience even when users move.
 
-Multiplayer Option: HoloType facilitates shared virtual environments, enabling users to collaborate and learn together.
+<strong>Multiplayer Option</strong>: HoloType facilitates shared virtual environments, enabling users to collaborate and learn together.
 ## Educator Access
-Section Navigation: Educators can effortlessly navigate between different sections, ensuring flexibility in lesson delivery.
-Lesson Customization: Educators can repeat the current section, go back to the previous section or advance to the next, offering adaptability to individual student needs.
-Lesson Creation: Educators have the power to create, edit, or remove lessons through the web portal, tailoring the content to specific educational objectives.
-Hologram Customization: Educators can adjust the sizes of holograms and customize questions, narration, and visual and audio cues for the users.
+<strong>Section Navigation</strong>: Educators can effortlessly navigate between different sections, ensuring flexibility in lesson delivery.
+<strong>Lesson Customization</strong>: Educators can repeat the current section, go back to the previous section or advance to the next, offering adaptability to individual student needs.
+<strong>Lesson Creation</strong>: Educators have the power to create, edit, or remove lessons through the web portal, tailoring the content to specific educational objectives.
+<strong>Hologram Customization</strong>: Educators can adjust the sizes of holograms and customize questions, narration, and visual and audio cues for the users.
 ## Conclusion
 HoloType represents a significant step towards making quality education accessible to individuals with unique learning needs. our user study demonstrates the potential of this application to be a valuable resource for a population that faces limited access to educational opportunities as a result of their motor and sensory challenges.
 
