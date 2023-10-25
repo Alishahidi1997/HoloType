@@ -1,17 +1,22 @@
 # HoloType
 <strong>Please Note: Due to licensing constraints, this code is not open source.</strong>.
+![](https://github.com/Alishahidi1997/HoloType/blob/main/4-Lesson.jpg)
 ## Introduction
 
 HoloType is an innovative Augmented Reality (AR) educational platform, using HoloLens 2 head-mounted augmented reality, designed to cater to the unique learning needs of non-speaking autistic individuals. This project represents a fusion of cutting-edge technology and a deeply human-centered approach to education. Developed using Unity, C#, and the Mixed Reality Toolkit (MRTK), HoloType is a testament to the power of technology in making education accessible and engaging for all.
 
 ## Key Features 
+
+![](https://github.com/Alishahidi1997/HoloType/blob/main/4-Lesson.jpg)
+
 <strong>Teach-Ask Approach</strong>: HoloType employs a distinctive "Teach-Ask" methodology, where educators provide brief lesson sections followed by interactive questions. This approach ensures a comprehensive learning experience.
 
 <strong>Close Captioning Narration</strong>: All narrations come with close captioning, making the educational content accessible to individuals with diverse learning needs.
 
 <strong>Dynamic Lessons</strong>: Educators can seamlessly customize lessons through a web portal, allowing for adaptability and personalization in the learning process.
-## User-Centric Features
 
+## User-Centric Features
+![](https://github.com/Alishahidi1997/HoloType/blob/main/5-Comprehension-Hand.jpg)
 <strong>Multiple Choice Quizzes</strong>: Users encounter progressively challenging multiple-choice quizzes as they progress through the lessons. Users have the advantage of not one but two chances to respond to each question, creating a constructive and nurturing learning environment. After an incorrect response, the options will be rearranged, and the previously incorrect choice substituted with an alternative, to prevent any repetitive behaviors.
 
 <strong>Visual and Audio Cues</strong>: The platform incorporates a virtual hand coach, feedback on responses, and relevant pictures that appear during keyword narrations to enhance user engagement.
@@ -38,7 +43,7 @@ Multiplayer demo will be added soon.
 
 2- Alabood, Lorans, et al. "HoloType-CR: Cross Reality Communication Training for Minimally Verbal Autistic Persons." 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). IEEE, 2022. https://ieeexplore.ieee.org/document/9974576
 
-## In proceedings: 
+## Submitted (Got accepted but not published yet): 
 1- Ali Shahidi, Lorans Alabood, Kate M. Kaufman, Vikram K. Jaswal, Diwakar Krishnamurthy, and Mea Wang. Title: AR-Based Educational Software for Nonspeaking Autistic People - A Feasibility Study. Venue: IEEE Inter- national Symposium on Mixed and Augmented Reality (ISMAR ’23), October 16-20, 2023, Sydney, Australia. 9 page
 ### Media
 1- https://ucalgary.ca/news/augmented-reality-technology-helps-non-speaking-autistic-population-find-their-voice
