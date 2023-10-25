@@ -34,7 +34,7 @@ HoloType represents a significant step towards making quality education accessib
 ## Demo 
 Will be added soon. 
 ## Publications 
-1- Krishnamurthy, Diwakar, et al. "Holotype: Lived experience based communication training for nonspeaking autistic people." CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022.https://dl.acm.org/doi/abs/10.1145/3491101.3519869
+1- Krishnamurthy, Diwakar, et al. "Holotype: Lived experience based communication training for nonspeaking autistic people." CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. https://dl.acm.org/doi/abs/10.1145/3491101.3519869
 
 2- Alabood, Lorans, et al. "HoloType-CR: Cross Reality Communication Training for Minimally Verbal Autistic Persons." 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). IEEE, 2022. https://ieeexplore.ieee.org/document/9974576
 
