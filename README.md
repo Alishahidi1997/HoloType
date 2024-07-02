@@ -47,8 +47,7 @@ Multiplayer demo will be added soon.
 
 3- Alabood, Lorans, et al. "HoloType-CR: Cross Reality Communication Training for Minimally Verbal Autistic Persons." 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). IEEE, 2022. https://ieeexplore.ieee.org/document/9974576
 
-## Submitted (Got accepted but not published yet): 
-1- Ali Shahidi, Lorans Alabood, Kate M. Kaufman, Vikram K. Jaswal, Diwakar Krishnamurthy, and Mea Wang. Title: AR-Based Educational Software for Nonspeaking Autistic People - A Feasibility Study. Venue: IEEE Inter- national Symposium on Mixed and Augmented Reality (ISMAR ’23), October 16-20, 2023, Sydney, Australia. 9 page
+
 ### Media
 1- https://ucalgary.ca/news/augmented-reality-technology-helps-non-speaking-autistic-population-find-their-voice
     
