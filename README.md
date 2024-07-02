@@ -41,9 +41,11 @@ HoloType represents a significant step towards making quality education accessib
 ## Demo 
 Multiplayer demo will be added soon. 
 ## Publications 
-1- Krishnamurthy, Diwakar, et al. "Holotype: Lived experience based communication training for nonspeaking autistic people." CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. https://dl.acm.org/doi/abs/10.1145/3491101.3519869
+1- Shahidi, Ali, et al. "AR-Based Educational Software for Nonspeaking Autistic People-A Feasibility Study." 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2023. Link: https://lnkd.in/gdwWUmBu
 
-2- Alabood, Lorans, et al. "HoloType-CR: Cross Reality Communication Training for Minimally Verbal Autistic Persons." 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). IEEE, 2022. https://ieeexplore.ieee.org/document/9974576
+2- Krishnamurthy, Diwakar, et al. "Holotype: Lived experience based communication training for nonspeaking autistic people." CHI Conference on Human Factors in Computing Systems Extended Abstracts. 2022. https://dl.acm.org/doi/abs/10.1145/3491101.3519869
+
+3- Alabood, Lorans, et al. "HoloType-CR: Cross Reality Communication Training for Minimally Verbal Autistic Persons." 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). IEEE, 2022. https://ieeexplore.ieee.org/document/9974576
 
 ## Submitted (Got accepted but not published yet): 
 1- Ali Shahidi, Lorans Alabood, Kate M. Kaufman, Vikram K. Jaswal, Diwakar Krishnamurthy, and Mea Wang. Title: AR-Based Educational Software for Nonspeaking Autistic People - A Feasibility Study. Venue: IEEE Inter- national Symposium on Mixed and Augmented Reality (ISMAR ’23), October 16-20, 2023, Sydney, Australia. 9 page
